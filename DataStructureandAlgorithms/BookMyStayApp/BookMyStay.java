@@ -1,4 +1,4 @@
-package DataStructureandAlgorithms.BookMyStayApp;
+package BookMyStayApp;
 import java.util.*;
 
 class Booking {

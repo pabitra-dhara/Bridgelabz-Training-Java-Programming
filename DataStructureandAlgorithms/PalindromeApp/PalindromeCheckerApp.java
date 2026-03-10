@@ -1,4 +1,4 @@
-package DataStructureandAlgorithms.PalindromeApp;
+package PalindromeApp;
 
 import java.util.LinkedList;
 import java.util.Queue;
