@@ -1,0 +1,3 @@
+package com.stock.portfolioalertapp.dto;
+import com.stock.portfolioalertapp.entity.PriceAlert.AlertType; import java.math.BigDecimal;
+public class PriceAlertRequest {private String stockSymbol; private AlertType alertType; private BigDecimal targetPrice; public PriceAlertRequest(){} public String getStockSymbol(){return stockSymbol;} public void setStockSymbol(String v){stockSymbol=v;} public AlertType getAlertType(){return alertType;} public void setAlertType(AlertType v){alertType=v;} public BigDecimal getTargetPrice(){return targetPrice;} public void setTargetPrice(BigDecimal v){targetPrice=v;}}

@@ -1,0 +1,1 @@
+package com.stock.portfolioalertapp.dto; public class PortfolioCreateRequest {private String name; public PortfolioCreateRequest(){} public String getName(){return name;} public void setName(String name){this.name=name;}}

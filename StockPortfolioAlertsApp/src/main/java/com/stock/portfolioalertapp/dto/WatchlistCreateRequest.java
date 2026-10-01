@@ -1,0 +1,1 @@
+package com.stock.portfolioalertapp.dto; public class WatchlistCreateRequest {private String name; public WatchlistCreateRequest(){} public String getName(){return name;} public void setName(String v){name=v;}}
